@@ -5,7 +5,7 @@ kaishi
 
 An extremely minimal template for getting projects started. Includes a basic CSS reset and prelinked style.css and scripts.js files. Also includes an offline jQuery fallback.
 
-kaishi does not have and IE fallback JS and is mostly meant for rapid prototyping and experiments.
+kaishi does not have any IE fallback JS and is mostly meant for rapid prototyping and experiments.
 
 ##Version History
 
