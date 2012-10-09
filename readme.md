@@ -1,5 +1,6 @@
 kaishi
 ================================
+Mandarin (開始) or Japanese (開始) for start, or to begin.
 
 ##Description
 
