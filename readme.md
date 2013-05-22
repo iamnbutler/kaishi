@@ -10,8 +10,12 @@ kaishi does not have any IE fallback JS and is mostly meant for rapid prototypin
 
 ##Version History
 
+1.1 Commented out jQuery
+	  - Not all projects require jQuery, and it is useless to load something you are not using.
+	  	Simply uncomment line 23 to activate it.
+	 Stripped [.clearfix] out of css. Was not being used enough to justify a place in the base css.
 1.0 Release Version: *Added primary files, stripped comments and added readme*
 
 ##Credits
 
-kaishi is based off of ENSO 1.0 / A minimal HTML5 boilerplate - Spiegelma.de.
+kaishi 1.0 is based off of ENSO 1.0 / A minimal HTML5 boilerplate - Spiegelma.de.
