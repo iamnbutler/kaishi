@@ -12,7 +12,7 @@ kaishi does not have any IE fallback JS and is mostly meant for rapid prototypin
 
 1.1 Commented out jQuery
 	  - Not all projects require jQuery, and it is useless to load something you are not using.
-	  	Simply uncomment line 23 to activate it.
+	  - Simply uncomment line 23 to activate it.
 	 Stripped [.clearfix] out of css. Was not being used enough to justify a place in the base css.
 1.0 Release Version: *Added primary files, stripped comments and added readme*
 
