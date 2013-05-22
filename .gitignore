@@ -174,3 +174,9 @@ pip-log.txt
 *.DS_store
 *._.DS_store
 .DS_Store
+
+#################
+# Codekit
+#################
+
+config.rb
