@@ -1,4 +1,2 @@
-// Load scripts after page loads
-$(document).ready(function(){
-
-});
+// Uncomment if using jQuery
+// $(document).ready(function(){  });
