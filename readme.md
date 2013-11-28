@@ -6,7 +6,7 @@ Mandarin (开始) or Japanese (開始) for start, or to begin.
 
 An extremely minimal template for getting projects started. Includes a basic CSS reset and prelinked style.css and scripts.js files.
 
-kaishi does not have any IE fallback JS and is mostly meant for rapid prototyping and experiments.
+kaishi is meant for rapid prototyping and experiments, and does not have IE fallbacks or styles.
 
 ##Version History
 * 1.2 Moved to compass
