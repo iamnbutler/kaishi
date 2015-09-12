@@ -9,6 +9,9 @@ An extremely minimal template for getting projects started. Includes a basic CSS
 kaishi is meant for rapid prototyping and experiments, and does not have IE fallbacks or styles.
 
 ##Version History
+* 1.3 Minor updates for 2015
+	* Giving index some love after almost 2 years of no updates
+	* Added .gitignore rules for codekit
 * 1.2 Moved to compass
     * style.css => screen.css
     * Use codekit or other sass compiler to compile scss files (or just delete the scss folder and use screen.css)
