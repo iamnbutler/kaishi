@@ -179,4 +179,5 @@ pip-log.txt
 # Codekit
 #################
 
+*.codekit
 config.rb
