@@ -9,6 +9,12 @@ An extremely minimal template for getting projects started. Includes a basic CSS
 kaishi is meant for rapid prototyping and experiments, and does not have IE fallbacks or styles.
 
 ##Version History
+* 1.4 Reorganization + Compass
+	* Use compass by default
+	* Added partials for variables and defaults
+	* Swiched to page based css, _style => _index
+	* css/scss => scss
+	* Stripped out typekit code by default
 * 1.3 Minor updates for 2015
 	* Giving index some love after almost 2 years of no updates
 	* Added .gitignore rules for codekit
